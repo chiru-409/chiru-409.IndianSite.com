@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<link rel="icon" href="Flag.png" type="image/x-icon"/>
+<head>
+<title>Indian Site 🇮🇳</title>
+<style>
+body {
+   background-image: url("imk.png");
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-attachment: fixed;
+} 
+</style>
+</head>
+<body>
+<h1>About Indians 🇮🇳</h1> 
+<hr></hr> connected
+<h2>Education</h2>
+<img>
+<img src= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1kEJUX2VKH5Ty4Hzbirj-aOoCJv3nAp7h9A&s">
+<p>In India, the formal education system consists of five years of primary schooling, followed by three years of middle school and two years of high school. After the completion of high school, students can pursue higher education at a university or college.
+18% of the Indian population which is approximately 500 million is in the age group of 15-24 years that fall under the secondary and higher education sector. The adult (15+ years) literacy rate in India is 69.3%, out of which adult male literacy is 78.8% and adult female literacy is 59.3%.</p>
+<hr></hr>
+<h2>Family</h2>
+<p>As a collectivistic society, Indians often emphasise loyalty and interdependence . The interests of the family usually take priority over those of the individual, and decisions affecting one's personal life – such as marriage and career paths – are generally made in consultation with one's family.
+The traditional Indian family
+<br></br>
+Structurally, the Indian joint family includes three to four living generations, including grandparents, parents, uncles, aunts, nieces and nephews, all living together in the same household, utilizing a common kitchen and often spending from a common purse, contributed by all.</p>
+<hr></hr>
+<h2>About Me (An Indian Kid)</h2>
+<p>I love to do coding it is the best part in my school but I sometimes mess up 😟. I also love science it is my first favourite subject.</p>
+<hr></hr>
+<br><br/>
+<h2>My Future Goals as an Indian</h2>
+<p>I love to be a Doctor in fact I want to be a doctor because I am good at science.
+I love Biology. I also love the topic about Global Warming and others.
+I am very sure that in the future being a doctor is hard.</p>
+<br></br>
+<hr></hr>
+<h5 style="font-family: Arial">Creator- Chirantan Chetan 👨🏼‍💻</h5>
+</body>
+</html>
