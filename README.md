@@ -1,2 +1,2 @@
-# chiru-409.IndianSite.com
+# chiru-409.indiansite.com
 An Web That Tells about Indian Things
